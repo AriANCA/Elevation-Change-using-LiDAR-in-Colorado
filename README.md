@@ -1,8 +1,8 @@
 # Elevation Change using LiDAR in Colorado
-Measure Changes in the Terrain Caused by a Flood Using Lidar Data
 
 # Introduction
-
+In September 2013, Colorado's Front Range, from Fort Collins south to Colorado Springs, experienced devastating floods. The frequency and severity of flooding have been increasing all over the world attributed to climate change and escalated urbanization. As such, the issue and techniques of monitoring and mapping flood-inundated areas are also growing. Earth observation plays important role in flood mapping, monitoring, and damage assessment.
+Light Detection and Ranging LiDAR data can be used to create many different landscape models. In this data activity, digital terrain models (DTM) were used to view the surface of the earth. Comparing a DTM from before a disturbance event with one from after a disturbance event makes it possible to get measurements of where the landscape changed.
 
 # Data 
 The data to create DTMs to analyze landscape change due to the Colorado floods was downloaded directly from the National Ecological Observatory Network (NEON), however for practical purposes it is located in the data folder. 
@@ -36,4 +36,4 @@ Below is a cross-section showing the data represented by a DoD. The orange areas
 
 ![MEC_with_DTMs](https://user-images.githubusercontent.com/118282872/231853871-003d8c33-8256-4b5c-82d6-6fdacc4a213b.png)
 
-Quantifying causes and impacts with these tools allow scientists, urban planners, developers, and homeowners to make informed decisions to prepare for and respond to disturbances.
+Quantifying the impacts with these tools allow scientists, urban planners, developers, and homeowners to make informed decisions to prepare for and respond to disturbances.
